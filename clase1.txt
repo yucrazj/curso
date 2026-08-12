@@ -1,0 +1,32 @@
+Configuracion de Entorno
+- Editores de Codigo
+    - Diferencia entre editores de codigo y IDEs
+    - Configuraciones basicas y personalizacion de Visual Code
+
+Modulo 1 - Fundamentos
+
+    Para que entendamos mejor el flujo de trabajo con Git, lo vamos a tomar como una especie de almacen
+    - Que tenemos en un almacen para guardar los productos? Imaginemos que se trata del almacen de un supermercado, con cualquier cantidad de producto y demas
+    - En este espacio puede trabajar un monton de gente y lo mas importante siempre es la comunicacion entre todos para que esten bien informados sobre los movimientos que ocurren, como dicen por ahi, no puede moverse ni un alfiler sin avisar antes
+    - Ademas, debemos estar siempre al tanto de todas las actualizaciones, precios, cantidad, donde esta cada cosa
+    - Lo fundamental cuando trabajamos en entornos que maneja grandes cantidades de lo que sea, es la organizacion y la informacion
+
+    Arquitectura interna de Git
+        Working Directory
+            Directorio de trabajo, basicamente se refiere al proyecto montado en sus ambientes locales
+            Aqui podemos hacer y deshacer a nuestro antojo (crear, modificar, eliminar) todo el codigo. En pocas palabras, como si estuvieramos en colegio, es nuestro cuaderno borrador
+        Staging Area
+            Una vez limpiamos, ajustamos lo que teniamos que ajustar, corregimos errores y lo tenemos listo para compartir o presentar, lo podemos preparar para su guardado en el repositorio
+            Obviamente en ocasiones, hay proyectos que son demasiado largos y no se requiere una presentacion diaria, entonces no se preocupen que en este entorno su supervisor les vaya a reclamar porque subieron codigo inconcluso, solamente debemos seguir buenas practicas y mantener al equipo informado
+            Es  el area de preparacion, un entorno de espera donde mantenemos los cambios pendientes, ya sea para desecharlos o guardarlos en el repositorio
+        Local Repository
+            Aqui ya hablamos del espacio local donde podemos guardar nuestro progreso, tal vez volviendo al ejemplo del almacen, seria algo asi como el almacen de una sucursal de un supermercado, no hablamos del lugar central de distribucion, solo del espacio local
+            En otras palabras, esto seria un espacio temporal en mi ambiente donde voy almacenando mis propios ajustes y/o cambios
+
+    Gestion de Ramas
+
+    Reescritura de Historial
+
+    Manipulacion de Linea de Tiempo
+
+    Auditoria y Almacenamiento Temporal
